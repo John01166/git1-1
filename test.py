@@ -2,8 +2,4 @@ print('test')
 
 if x > y:
     print('YES')
-
-
-ldnfnl
-
-dasdasd
+абра кодабра
